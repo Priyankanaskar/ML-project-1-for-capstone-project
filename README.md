@@ -1,6 +1,6 @@
 # Gold Rates Prediction using Machine Learning Approach
 
-Udacity - Machine learning Nano Degree Program : Project-6 (Capstone project)
+
 
 ## Project Overview
 
